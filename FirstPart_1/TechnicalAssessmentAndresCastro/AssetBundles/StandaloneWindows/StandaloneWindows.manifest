@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2495010060
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube_1
+      Dependencies:
+        Dependency_0: sharedmaterial
+    Info_1:
+      Name: cube_2
+      Dependencies:
+        Dependency_0: sharedmaterial
+    Info_2:
+      Name: sharedmaterial
+      Dependencies: {}
