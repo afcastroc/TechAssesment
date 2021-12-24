@@ -1,0 +1,4 @@
+﻿  concatenateStrings.cpp
+  LINK : E:\Andres\Trabajo\Unity\Assesment_Dic_2021\ConcatenateDLL\Concatenate\Concatenate\x64\Debug\Concatenate.dll not found or not built by the last incremental link; performing full link
+     Creating library E:\Andres\Trabajo\Unity\Assesment_Dic_2021\ConcatenateDLL\Concatenate\Concatenate\x64\Debug\Concatenate.lib and object E:\Andres\Trabajo\Unity\Assesment_Dic_2021\ConcatenateDLL\Concatenate\Concatenate\x64\Debug\Concatenate.exp
+  Concatenate.vcxproj -> E:\Andres\Trabajo\Unity\Assesment_Dic_2021\ConcatenateDLL\Concatenate\Concatenate\x64\Debug\Concatenate.dll
